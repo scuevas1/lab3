@@ -206,15 +206,15 @@ label {
 #content {
 	text-align: center;
 	max-width: 400px;
-    margin: 2rem auto;
-    padding: 1.5rem;
+    margin: 2em auto;
+    padding: 1.5em;
     border-radius: 8px;
 	background-color: #d1d1d1;
 }
 
 h1{
-	margin-bottom: 1.8rem;
-  padding: 0.75rem;
+	margin-bottom: 1.8em;
+  padding: 0.75em;
 	font-family: "Barriecito", system-ui;
   font-size: 30px;
   font-style: normal;
@@ -223,11 +223,11 @@ h1{
 }
 
 #input-age-verification{
-  padding: 1rem;
+  padding: 1em;
 }
 
 #input-submit {
-	margin: 1rem 0;
+	margin: 1em 0;
 }
 
 /* ===== STATE STYLES ======= */
