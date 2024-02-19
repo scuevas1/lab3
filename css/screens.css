@@ -222,4 +222,12 @@ h1{
 	background-color: #777778;
 }
 
+#input-age-verification{
+  padding: 1rem;
+}
+
+#input-submit {
+	margin: 1rem 0;
+}
+
 /* ===== STATE STYLES ======= */
