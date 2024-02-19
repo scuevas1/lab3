@@ -230,15 +230,11 @@ h1{
 	margin: 1em 0;
 }
 
-input[type="email"] + label{
-	font-size: 0.875em;
-}
 
 input[type="checkbox"] + label{
   width: auto;
   height: auto;
   display: inline;
   vertical-align: top;
-  font-size: 0.875em;
 }
 /* ===== STATE STYLES ======= */
