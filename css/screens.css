@@ -222,6 +222,10 @@ h1{
 	background-color: #777778;
 }
 
+p{
+  padding: 0.25em;
+}
+
 #input-age-verification{
   padding: 1em;
 }
