@@ -258,12 +258,14 @@ input[type="checkbox"] + label{
 }
 /* ===== STATE STYLES ======= */
 @media screen and (min-width: 620px) {
-  h1 {
+  body {
+    margin: 4%;
     font-size: 1.3em;
+  }
+  h1 {
     padding: 0.75em;
   }
   p {
-    font-size: 1.3em;
     padding-bottom: 0.6em;
   }
 }
