@@ -247,3 +247,8 @@ input[type="checkbox"] + label{
   vertical-align: top;
 }
 /* ===== STATE STYLES ======= */
+@media screen and (min-width: 620px) {
+  p {
+    font-size: 1.3em;
+    padding-bottom: 0.75em;
+  }
