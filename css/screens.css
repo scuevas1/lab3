@@ -268,4 +268,7 @@ input[type="checkbox"] + label{
   p {
     padding-bottom: 0.6em;
   }
+  #content {
+    padding-top: 1.3em;
+  }
 }
