@@ -203,6 +203,16 @@ label {
   display: block;
 }
 
+@media (max-width: 768px) {
+  input[type="text"],
+  input[type="checkbox"],
+  input[type="submit"],
+  textarea,
+  select {
+    padding: 0.5em;
+  }
+}
+
 /* ===== LAYOUT STYLES ====== */
 #content {
 	text-align: center;
